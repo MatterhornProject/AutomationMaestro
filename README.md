@@ -1,2 +1,2 @@
-# AutomationMaestro
-AutomationMaestro
+# Automation Maestro
+Automation Maestro
